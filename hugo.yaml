@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: WinlatorDB
 
 # import hextra as module
 module:
@@ -49,8 +49,8 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
